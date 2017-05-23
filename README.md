@@ -1,2 +1,4 @@
 # PatternMatcher
-little program to test your own regular expression!
+A little program to test your own regular expression!
+
+
